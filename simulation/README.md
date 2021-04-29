@@ -1,6 +1,6 @@
 # Activity 1
 When both button sensor and heater is OFF
-![image](https://user-images.githubusercontent.com/80700297/116536859-19eeab80-a903-11eb-9e9b-9d6633ed26ea.PNG)
+![image](https://user-images.githubusercontent.com/80700297/116563693-e2432c00-a921-11eb-9aa0-8a384d95b6bc.PNG)
 
 When button sensor is ON but heater is  OFF
 ![image](https://user-images.githubusercontent.com/80700297/116563491-b2942400-a921-11eb-812f-18f4144c0585.PNG)

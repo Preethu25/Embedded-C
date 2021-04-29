@@ -2,4 +2,4 @@
 
 ## ACTIVITY 1
 ### Button Sensor, Heater and LED
-![image](https://user-images.githubusercontent.com/80700297/116535169-0c382680-a901-11eb-94c4-8eda1b208c60.PNG)
+![image](https://user-images.githubusercontent.com/80700297/116562235-9d6ac580-a920-11eb-9cbf-b751d90e7219.PNG)

@@ -1,1 +1,4 @@
-# Embedded-C
+# Embedded-C Project
+
+## ACTIVITY 1
+

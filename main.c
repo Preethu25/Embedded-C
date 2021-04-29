@@ -5,7 +5,7 @@ int main(void)
     initiLED();
     while(1)
     {
-          if(Heater_ON && ButtonSensor_ON)
+          if(ButtonSensor_ON && Heater_ON)
           {
                   PORTB|=(1<<PB0);
           }

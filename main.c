@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include "act1buttonsensor.h"
-#include "act2_tempsensor.h"
+#include "act2tempsensor.h"
 
 uint16_t temp1;
 int main(void)

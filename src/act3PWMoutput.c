@@ -34,28 +34,28 @@ char PWMoutput (uint16_t ADC_value)
 
     char temp;
 
-    if((ADC_value>=0) && (ADC_value<=209))
+    if((ADC_value>=0) && (ADC_value<=200))
     {
 
         OCR1A = 205; // Duty cycle = 20%
         temp = 20;   // Temperature = 20 C
         _delay_ms(20);
     }
-    else if((ADC_value>=210) && (ADC_value<=509))
+    else if((ADC_value>=201) && (ADC_value<=500))
     {
 
         OCR1A = 410; //Duty cycle = 40%
         temp = 25;   // Temperature = 25 C
        _delay_ms(20);
     }
-    else if((ADC_value>=510) && (ADC_value<=709))
+    else if((ADC_value>=509) && (ADC_value<=700))
     {
 
         OCR1A = 717;// Duty cycle = 70%
         temp = 29;  // Temperature = 29 C
         _delay_ms(20);
     }
-    else if((ADC_value>=710) && (ADC_value<=1024))
+    else if((ADC_value>=701) && (ADC_value<=1024))
     {
 
         OCR1A = 973; // Duty cycle = 95%

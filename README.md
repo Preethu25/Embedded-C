@@ -14,5 +14,5 @@
 
 ## ACTIVITY 4
 ### Displaying the temperature value in serial monitor
-![image](https://user-images.githubusercontent.com/80700297/116681201-47eaf300-a9ca-11eb-832a-f785d9a35b25.PNG)
+![image](https://user-images.githubusercontent.com/80700297/116683100-c21c7700-a9cc-11eb-8d6e-8571f3084656.PNG)
 

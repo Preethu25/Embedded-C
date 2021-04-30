@@ -4,7 +4,7 @@
  * @author Preethu R (you@domain.com)
  * @brief Sensors used in car for temperature adjustment purpose
  * @version 0.1
- * @date 2021-04-29
+ * @date 2021-04-27
  *
  * @copyright Copyright (c) 2021
  *
@@ -21,10 +21,10 @@ int main(void)
 {
     uint16_t temp;
     char temp_value;
-    initiLED();
-    initiADC();
-    initiPWM();
-    initiUSART(103);
+    initiLED();      // Initilization of switch ports(input ports) and LED port(output port)
+    initiADC();      // Initilization of ADC channels
+    initiPWM();      // Initilization of PWM pins
+    initiUSART(103); // Initilization of USART ports
     while(1)
     {
           if(ButtonSensor_ON && Heater_ON) // If seat occupied and heater is turned ON

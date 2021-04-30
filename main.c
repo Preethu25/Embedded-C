@@ -2,6 +2,7 @@
  */
 
 #include <avr/io.h>
+#include <util/delay.h>
 #include "act1buttonsensor.h"
 #include "act2tempsensor.h"
 #include "act3PWMoutput.h"

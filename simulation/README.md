@@ -9,4 +9,5 @@ When both button sensor and heater is ON
 ![image](https://user-images.githubusercontent.com/80700297/116562235-9d6ac580-a920-11eb-9cbf-b751d90e7219.PNG)
 
 # Activity 2
+![image](https://user-images.githubusercontent.com/80700297/116661322-e3239e80-a9b1-11eb-8ad6-03b3637d409b.PNG)
 

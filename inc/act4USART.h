@@ -1,6 +1,6 @@
 /**
  * @file act4USART.h
- * @author Preethu R(you@domain.com)
+ * @author Preethu R()
  * @brief USART serial communication
  * @version 0.1
  * @date 2021-04-30

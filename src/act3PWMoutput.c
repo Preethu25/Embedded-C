@@ -1,9 +1,9 @@
 /**
  * @file act3PWMoutput.c
- * @author 259870 (you@domain.com)
- * @brief Generating PWM wave according to the change in temperature
+ * @author Preethu R (you@domain.com)
+ * @brief Generating PWM output waveform according to the change in temperature
  * @version 0.1
- * @date 2021-04-30
+ * @date 2021-04-29
  *
  * @copyright Copyright (c) 2021
  *
@@ -13,7 +13,7 @@
 #include"act3PWMoutput.h"
 
 /**
- * @brief initializing timer and counter register
+ * @brief Initilization of timer and counter register
  *
  */
 void initiPWM(void)

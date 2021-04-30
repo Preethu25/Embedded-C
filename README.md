@@ -1,5 +1,8 @@
 # Embedded-C Project
 
+[![Compile-Linux](https://github.com/Preethu25/Embedded-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Preethu25/Embedded-C/actions/workflows/Compile.yml)
+
+
 ## ACTIVITY 1
 ### Button Sensor, Heater and LED
 ![image](https://user-images.githubusercontent.com/80700297/116562235-9d6ac580-a920-11eb-9cbf-b751d90e7219.PNG)

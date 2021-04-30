@@ -4,7 +4,7 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/act1buttonsensor.c src/act2tempsensor.c src/act3PWMoutput.c
+src/act1buttonsensor.c src/act2tempsensor.c 
 
 # All header file paths
 INC = -I inc

@@ -8,3 +8,7 @@
 ### Button Sensor, Heater and LED with Temperature sensor
 ![image](https://user-images.githubusercontent.com/80700297/116593626-e92c6780-a93e-11eb-95f1-03fa5f042a6b.PNG)
 
+## ACTIVITY 2
+### PWM output waveform according to the change in temperature
+
+

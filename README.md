@@ -1,7 +1,7 @@
 # Embedded-C Project
 
-|Build                      |      Cpp_Check            |     Codacy     |                                       
-|--------                   |-------------------------- |-------         |
+|Build                      |      Cpp_Check            |                                     
+|--------                   |-------------------------- |
 |[![Compile-Linux](https://github.com/Preethu25/Embedded-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Preethu25/Embedded-C/actions/workflows/Compile.yml)|[![Cpp_Check](https://github.com/Preethu25/Embedded-C/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Preethu25/Embedded-C/actions/workflows/cpp_check.yml)|
 
 

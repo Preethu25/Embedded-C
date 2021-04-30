@@ -1,4 +1,13 @@
-/*
+  
+/**
+ * @file main.c
+ * @author Preethu R (you@domain.com)
+ * @brief Sensors used in car for temperature adjustment purpose
+ * @version 0.1
+ * @date 2021-04-29
+ *
+ * @copyright Copyright (c) 2021
+ *
  */
 
 #include <avr/io.h>

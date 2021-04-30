@@ -11,3 +11,7 @@ When both button sensor and heater is ON
 # Activity 2
 ![image](https://user-images.githubusercontent.com/80700297/116661322-e3239e80-a9b1-11eb-8ad6-03b3637d409b.PNG)
 
+# Activity 3
+
+
+

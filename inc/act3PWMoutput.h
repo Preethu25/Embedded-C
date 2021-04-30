@@ -1,7 +1,12 @@
- * @date 2021-04-29
- *
+/**
+ * @file act3PWMoutput.h
+ * @author 259870 (you@domain.com)
+ * @brief Display the output of the temperature sensor
+ * @version 0.1
+ * @date 2021-04-30
+ * 
  * @copyright Copyright (c) 2021
- *
+ * 
  */
 
 #ifndef ACT3PWMOUTPUT_H_INCLUDED

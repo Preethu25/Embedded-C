@@ -1,6 +1,6 @@
 /**
  * @file act3PWMoutput.c
- * @author Preethu R (you@domain.com)
+ * @author Preethu R ()
  * @brief Generating PWM output waveform according to the change in temperature
  * @version 0.1
  * @date 2021-04-29

@@ -12,3 +12,7 @@
 ### PWM output waveform according to the change in temperature
 ![image](https://user-images.githubusercontent.com/80700297/116659078-a4d8b000-a9ae-11eb-924e-1321e5da4623.PNG)
 
+## ACTIVITY 4
+### Displaying the temperature value in serial monitor
+![image](https://user-images.githubusercontent.com/80700297/116681201-47eaf300-a9ca-11eb-832a-f785d9a35b25.PNG)
+

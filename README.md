@@ -2,6 +2,8 @@
 
 [![Compile-Linux](https://github.com/Preethu25/Embedded-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Preethu25/Embedded-C/actions/workflows/Compile.yml)
 
+[![Cpp_Check](https://github.com/Preethu25/Embedded-C/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Preethu25/Embedded-C/actions/workflows/cpp_check.yml)
+
 
 ## ACTIVITY 1
 ### Button Sensor, Heater and LED
